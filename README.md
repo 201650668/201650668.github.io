@@ -1,3 +1,0 @@
-Novel
-
-- [Docs](/Docs/)
